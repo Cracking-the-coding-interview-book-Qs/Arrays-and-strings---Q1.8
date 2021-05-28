@@ -34,7 +34,7 @@ int main()
 		col[i]=1;
 	}
 
-	printf("\t\nPlz start filling your elements one by one. (ROW-WISE SORTED)");
+	printf("\t\nPlz start filling your elements one by one.");
 
 	//feeding matrix
 	for(i=0;i<R;i++)
