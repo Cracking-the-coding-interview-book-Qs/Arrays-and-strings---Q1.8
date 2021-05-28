@@ -1,5 +1,8 @@
 //method 1>>
 
+//TC => O(R*C) bcoz full traversals are needed 2-3 times.
+//SC => O(R+C) bcoz two auxiliary arrays are created.
+
 //Logic
 //Traverse the array and mark the number of total zeros present in the matrix along with their location
 //code dekho sidha .Idhar likhke samzana mushkil hai.
